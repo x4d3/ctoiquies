@@ -1,0 +1,16 @@
+html, body {background-color:black;
+		cursor: pointer;
+		height: 100%;
+		margin: 0;
+		position: absolute;
+		width: 100%;
+}
+
+
+#wittyRemark{
+		font-family: Garamond;
+		color: white;
+		font-size: 50px;
+		text-align: center;
+		margin: 20% auto 0 auto;
+}
